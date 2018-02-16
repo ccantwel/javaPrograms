@@ -1,0 +1,13 @@
+type = "book"
+callnumber = "ABCD1234"
+authors = "Marco Fox"
+title = "Java Programming For Dummies"
+publisher = "Dummies Books Ltd"
+year = "2010"
+
+type = "journal"
+callnumber = "DEFG3000"
+title = "Not Out Of Java"
+organization = "Science"
+year = "2009"
+
